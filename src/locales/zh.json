@@ -1,13 +1,14 @@
 {
   "lang": "Chinese",
   "flags": "🇨🇳",
-  "title": "AVIF 转 JPEG \"离线\" 批量转换器",
+  "title": "AVIF 转 JPEG 批量转换器",
   "metaDescription": "这是一款免费的网络应用程序，可将 AVIF 或 WebP 图像转换为 JPEG 或 PNG 等其他常见图像格式，而无需进行服务器通信",
   "descriptions": [
     "这是一款免费的网络应用程序，可将 AVIF（或 WebP 等）图像批量转换为 JPEG、PNG 等常见图像格式",
     "它使用浏览器的内置功能进行转换，因此<strong>不会向任何服务器发送数据</strong>，既快速又安全",
     "当加载多个图像时，转换后的图像将以 <strong>zip 文件</strong>的形式输出",
-    "需要 <a href=\"https://caniuse.com/avif\" target=\"_self\" style=\"color:red\">最新</a> 版本的 Firefox 或 Chrome 浏览器才能加载 AVIF 图像"
+    "需要 <a href=\"https://caniuse.com/avif\" target=\"_self\" style=\"color:red\">最新</a> 版本的 Firefox 或 Chrome 浏览器才能加载 AVIF 图像",
+    "技术服务联系：wechat：xixi0908511"
   ],
   "fileTypeRadioTitle": "选择目标文件扩展名",
   "fileTypeRadioOptions": {

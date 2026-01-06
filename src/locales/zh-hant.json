@@ -4,10 +4,11 @@
   "title": "AVIF到JPEG“離線”批處理轉換器",
   "metaDescription": "它是一個免費的Web應用程序，可將AVIF或WebP圖像轉換為其他常見的圖像格式，例如JPEG或PNG，而無需服務器通信。",
   "descriptions": [
-    "這是一個免費的Web應用程序，可將AVIF（或WebP等）批量轉換為常見圖像格式，例如JPEG，PNG。",
-    "它對轉換使用瀏覽器的內置功能，因此<strong>沒有將數據發送到任何服務器</strong>，因此它是快速且安全的。",
-    "加載多個圖像時，轉換後的圖像將作為<strong> zip文件</strong>輸出。",
-    "需要<a href=\"https://caniuse.com/avif\" target=\"_self\" style=\"color:red\">最新版本的</a>Firefox或Chrome來加載AVIF圖像"
+    "這是一個免費的網絡應用程序，可將 AVIF（或 WebP 等）批量轉換為常見圖像格式，例如 JPEG、PNG。",
+    "它對轉換使用瀏覽器的內置功能，因此<strong>沒有將數據發送到任何伺服器</strong>，因此它是快速且安全的。",
+    "載入多個圖像時，轉換後的圖像將作為<strong> zip 檔案</strong>輸出。",
+    "需要<a href=\"https://caniuse.com/avif\" target=\"_self\" style=\"color:red\">最新版本的</a> Firefox 或 Chrome 來載入 AVIF 圖像",
+    "技術服務聯繫：微信：xixi0908511"
   ],
   "selectLanguage": "選擇您的語言",
   "fileTypeRadioTitle": "選擇目標文件範圍",
