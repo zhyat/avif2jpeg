@@ -4,6 +4,7 @@ import { RouteRecordRaw } from 'vue-router'
 import App from "./App.vue";
 //import naive from "naive-ui";
 import { I18n, LANG_ID_LIST } from './i18n';
+import { inject } from "@vercel/analytics"
 
 
 const routes: RouteRecordRaw[] = [
@@ -39,5 +40,8 @@ export const createApp = ViteSSG(
     app.use(I18n);
     //app.use(naive);
 
+    if (isClient) {
+      inject();
+    }
   },
 );
